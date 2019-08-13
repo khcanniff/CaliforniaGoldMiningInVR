@@ -17,4 +17,4 @@ Engine/Binaries/ThirdParty/OpenVR/OpenVRv1_0_16/Win64/openvr_api.dll	2019-07-01T
 Engine/Binaries/ThirdParty/Ogg/Win64/VS2015/libogg_64.dll	2019-07-01T17:05:34.642Z
 Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbis_64.dll	2019-07-01T17:05:46.914Z
 Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbisfile_64.dll	2019-07-01T17:05:46.921Z
-VRMining.exe	2019-08-13T06:57:47.945Z
+VRMining.exe	2019-08-13T18:51:29.802Z
