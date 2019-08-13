@@ -9,7 +9,7 @@ The project is aimed at delivering historical information on the California's Go
 ## Download Link
 
 ## Computer Hardware (IP)
-working computer with a graphic's card of XXX
+working computer with [VR ready hardware](https://support.oculus.com/248749509016567/)
 The Oculue Rift, Touch Controllers, and Two sensors (along with the recommended play space of 5 ft x 5 ft) 
 
 # Instructions to Play
