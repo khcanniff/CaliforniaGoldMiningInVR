@@ -9,8 +9,8 @@ The project is aimed at delivering historical information on the California's Go
 ## Download Link
 
 ## Computer Hardware 
-working computer with [VR ready hardware](https://support.oculus.com/248749509016567/)
-The Oculue Rift, Touch Controllers, and Two sensors (along with the recommended play space of 5 ft x 5 ft) 
+Working computer with [VR ready hardware](https://support.oculus.com/248749509016567/),
+the Oculus Rift, Touch Controllers, and Two sensors (along with the recommended play space of 5 ft x 5 ft) 
 
 # Instructions to Play
 The two main buttons used in the game are the trigger button and the handle button (please see the image below).
