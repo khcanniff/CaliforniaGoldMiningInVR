@@ -8,8 +8,8 @@ The project is aimed at delivering historical information on the California's Go
 # Requirements to Play
 ## Download Link
 
-## Computer Hardware 
-Working computer with [VR ready hardware](https://support.oculus.com/248749509016567/),
+## Computer Requirements 
+Working computer with [VR ready hardware](https://support.oculus.com/248749509016567/), the Oculus software (to setup the Oculus rift),
 the Oculus Rift, Touch Controllers, and Two sensors (along with the recommended play space of 5 ft x 5 ft) 
 
 # Instructions on how to Play
