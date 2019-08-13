@@ -17,7 +17,7 @@ The two main buttons used in the game are the trigger button and the handle butt
 
 ### ![image](https://user-images.githubusercontent.com/23284476/62905869-30b13100-bd21-11e9-81f8-a03132cc5ad4.png)
 
-## informational pop-ups
+## Informational pop-ups
 Squeeze the trigger button to advance to the next page. 
 ### ![triggerShow](https://user-images.githubusercontent.com/23284476/62905339-ed55c300-bd1e-11e9-857f-85e9e2841bf5.PNG)
 
