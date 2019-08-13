@@ -7,7 +7,7 @@ The project is aimed at delivering historical information on the California's Go
 
 ##### Approximate play time is 10 minutes
 
-[YouTube Trailer for the game](https://www.youtube.com/watch?v=jSiRg15WmWA&feature=youtu.be)
+[YouTube trailer for the game](https://www.youtube.com/watch?v=jSiRg15WmWA&feature=youtu.be)
 
 # Requirements to Play
 ## Download Link
