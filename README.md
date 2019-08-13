@@ -13,6 +13,8 @@ Working computer with [VR ready hardware](https://support.oculus.com/24874950901
 the Oculus Rift, Touch Controllers, and Two sensors (along with the recommended play space of 5 ft x 5 ft) 
 
 # Instructions on how to Play
+While playing this game, please be aware of your soundings and if you feel uncomfortable at any time during the game please take off the headset and exit the game.
+This VR experience is meant to be played standing up. If due to health reasons you cannot stand you may attempt to play sitting down, but please be careful of your surroundings during the mining portion of the game. 
 The two main buttons used in the game are the trigger button and the handle button (please see the image below).
 
 ### ![image](https://user-images.githubusercontent.com/23284476/62905869-30b13100-bd21-11e9-81f8-a03132cc5ad4.png)
