@@ -14,6 +14,10 @@ The project is aimed at delivering historical information on the California's Go
 
 The executable is built for Windows 64-bit. size is 9 GB. [Download Link Via Google Drive](https://drive.google.com/file/d/1hFUb8Qc9F-ZkschH0w1J-eA5ykLxXbpo/view?usp=sharing)
 
+After downloading the file, please unzip or extract the files. Double click on the exe file titled "CAGoldMiningInVR". The program should lunch and can be seen through the Oculus Rift headset.
+![image](https://user-images.githubusercontent.com/23284476/63046130-b1d60880-be86-11e9-80f1-d850d6833a54.png)
+
+
 ## Computer Requirements 
 Working computer with [VR ready hardware](https://support.oculus.com/248749509016567/), the Oculus software (to setup the Oculus rift),
 the Oculus Rift, Touch Controllers, and Two sensors (along with the recommended play space of 5 ft x 5 ft) 
