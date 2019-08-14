@@ -12,7 +12,7 @@ The project is aimed at delivering historical information on the California's Go
 # Requirements to Play
 ## Download Link
 
-The executable is built for Windows 64-bit. size is 9 GB. [Download Link Via Google Drive](https://drive.google.com/file/d/1s3ywy2ZOdDgn-mM7Achd71XM73FZF_O8/view?usp=sharing)
+The executable is built for Windows 64-bit. size is 9 GB. [Download Link Via Google Drive](https://drive.google.com/file/d/1hFUb8Qc9F-ZkschH0w1J-eA5ykLxXbpo/view?usp=sharing)
 
 ## Computer Requirements 
 Working computer with [VR ready hardware](https://support.oculus.com/248749509016567/), the Oculus software (to setup the Oculus rift),
