@@ -1,4 +1,4 @@
-# California Mining In VR
+# California Gold Mining In VR
 ### 
 ![HighresScreenshot00000](https://user-images.githubusercontent.com/23284476/62906411-60613880-bd23-11e9-85d3-a66fc8849e26.png)
 
