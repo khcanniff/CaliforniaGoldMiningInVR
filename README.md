@@ -3,7 +3,7 @@
 ![HighresScreenshot00000](https://user-images.githubusercontent.com/23284476/62906411-60613880-bd23-11e9-85d3-a66fc8849e26.png)
 
 This project was built by Keely Canniff with the help from IP Studio and the University of the Pacific Library.
-The project is aimed at delivering historical information on the California's Gold Rush and Mining in a fast and fun manner through virtual reality. Unreal Real Engine was used to develop this project. This project is for educational use only and is not for commercial use.
+The project is aimed at delivering historical information on the California's Gold Rush and Mining in a fast and fun manner through virtual reality on the Oculus Rift. Unreal Real Engine was used to develop this project. This project is for educational use only and is not for commercial use.
 
 ##### Approximate gameplay time is 10 minutes
 
