@@ -38,7 +38,7 @@ Squeeze the handle of the controller to go to the previous page.
 ### ![grip](https://user-images.githubusercontent.com/23284476/62905325-d616d580-bd1e-11e9-8d3a-4c0573d0396f.PNG)
 
 ## Mining Instructions
-To grab the tool or ore squeeze and hold the trigger button. For dropping the tool or ore, release the trigger button.
+To grab the tool or ore, squeeze and hold the trigger button. For dropping the tool or ore, release the trigger button.
 
 ## Quitting the Game and Restarting the Game
 To quit the game, press the esc key on the keyboard. To restart the game you press the X, Y, A, and B button at the same time on the Oculus Touch Controllers or you can press the space bar on the keyboard.   
